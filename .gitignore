@@ -31,7 +31,9 @@ yarn-error.*
 *.pem
 
 # local env files
-.env*.local
+.env
+.env.*
+!.env.example
 
 # typescript
 *.tsbuildinfo
@@ -39,3 +41,22 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# test coverage
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# build artifacts
+*.apk
+*.aab
+*.ipa
+
+# Supabase local
+supabase/.temp/
+project-description.md
+project-timeline.md

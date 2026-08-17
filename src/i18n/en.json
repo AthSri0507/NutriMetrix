@@ -1,0 +1,61 @@
+{
+    "app": {
+        "name": "FoodRank India",
+        "tagline": "Know what you eat. Choose better.",
+        "version": "0.1.0"
+    },
+    "grades": {
+        "A": {
+            "label": "Excellent nutritional quality",
+            "color": "#2D7D46"
+        },
+        "B": {
+            "label": "Good nutritional quality",
+            "color": "#97C11F"
+        },
+        "C": {
+            "label": "Fair nutritional quality",
+            "color": "#FECB02"
+        },
+        "D": {
+            "label": "Poor nutritional quality",
+            "color": "#E63E11"
+        }
+    },
+    "search": {
+        "placeholder": "Search by product name, brand, or category",
+        "noResults": "No products found. Try a different search term.",
+        "error": "Something went wrong. Please try again."
+    },
+    "scan": {
+        "instruction": "Point the camera at a barcode",
+        "notFound": "Product not found in our database.",
+        "submissionPrompt": "Want to add this product? Take a photo of the nutrition label."
+    },
+    "ocr": {
+        "alignmentHint": "Align the nutrition label within the frame",
+        "blurWarning": "Image is too blurry. Please hold steady and try again.",
+        "confirmTitle": "Confirm Nutrition Data",
+        "confirmSubtitle": "Review and correct the values below before submitting."
+    },
+    "comparison": {
+        "title": "Side-by-side Comparison",
+        "per100g": "Per 100g",
+        "perServing": "Per serving"
+    },
+    "whereToBuy": {
+        "title": "Where to buy",
+        "disclaimer": "Opens a search on the selected platform."
+    },
+    "offline": {
+        "banner": "You are offline. Showing cached data."
+    },
+    "common": {
+        "loading": "Loading...",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "save": "Save",
+        "submit": "Submit",
+        "back": "Back"
+    }
+}
