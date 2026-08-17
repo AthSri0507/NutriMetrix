@@ -1,6 +1,6 @@
-# FoodRank India
+# NutriMetrix
 
-A mobile application that grades packaged food products on a scale of A to D based on nutritional quality, adapted for the Indian market. Inspired by systems like Nutri-Score and Yuka, FoodRank India provides consumers with quick, data-driven guidance on the healthiness of packaged food products available in India.
+A mobile application that grades packaged food products on a scale of A to D based on nutritional quality, adapted for the Indian market. Inspired by systems like Nutri-Score and Yuka, NutriMetrix provides consumers with quick, data-driven guidance on the healthiness of packaged food products available in India.
 
 India's FSSAI currently has no equivalent mandatory nutrition grading system. This app fills that gap independently: users scan a barcode or search a product catalog, and the app returns a health grade, a full nutrient breakdown, and better-ranked alternatives within the same category.
 
@@ -75,8 +75,8 @@ food/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/foodrank-india.git
-cd foodrank-india
+git clone https://github.com/AthSri0507/NutriMetrix.git
+cd NutriMetrix
 ```
 
 2. Install dependencies:

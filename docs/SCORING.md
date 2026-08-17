@@ -1,4 +1,4 @@
-# FoodRank India — A-D Scoring Methodology
+# NutriMetrix — A-D Scoring Methodology
 
 This document describes the nutritional scoring formula used to assign grades A through D
 to packaged food products. The methodology is adapted from the Nutri-Score system (used

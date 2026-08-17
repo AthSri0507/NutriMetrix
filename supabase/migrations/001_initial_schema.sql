@@ -1,4 +1,4 @@
--- FoodRank India — Initial Database Schema
+-- NutriMetrix — Initial Database Schema
 -- Supabase (PostgreSQL)
 -- Migration 001: Core tables for products, nutrients, categories, and user scans
 

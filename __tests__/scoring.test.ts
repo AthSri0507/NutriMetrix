@@ -1,5 +1,5 @@
 /**
- * Unit tests for the FoodRank India scoring engine.
+ * Unit tests for the NutriMetrix scoring engine.
  * Covers grade boundaries, edge cases, the protein exception rule,
  * and incomplete data handling.
  */

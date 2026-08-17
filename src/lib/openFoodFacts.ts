@@ -59,7 +59,7 @@ export interface OFFProductResult {
 // ---------------------------------------------------------------------------
 
 const BASE_URL = "https://world.openfoodfacts.org";
-const USER_AGENT = "FoodRankIndia/0.1.0 (https://github.com/foodrank-india)";
+const USER_AGENT = "NutriMetrix/0.1.0 (https://github.com/AthSri0507/NutriMetrix)";
 
 // ---------------------------------------------------------------------------
 // API client

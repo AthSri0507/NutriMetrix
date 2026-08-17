@@ -1,5 +1,5 @@
 /**
- * FoodRank India — Scoring Engine
+ * NutriMetrix — Scoring Engine
  *
  * Computes an A–D nutritional grade for a packaged food product based on
  * nutrient values per 100g. Methodology adapted from Nutri-Score, recalibrated
